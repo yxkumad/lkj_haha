@@ -5,7 +5,7 @@
 本计划收集李先生在TG说过的话。
 
 # Telegram Bot
-[@lkj_haha_bot](https://t.me/lkj_haha_bot)
+[@WYDLSWBot](https://t.me/WYDLSWBot)
 <p>
 欢迎加入李康健交流群：[链接](https://t.me/lkjcloud)
   </p>
