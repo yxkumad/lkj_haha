@@ -8,5 +8,11 @@
 [@lkj_haha_bot](https://t.me/lkj_haha_bot)
 欢迎加入李康健交流群：[链接](https://t.me/lkjcloud)
 
+# 更新日志
+初版 2020-02-10
+第二版 2020-02-12
+新增了200条语录
+
+
 # 开发人员
 此Bot由[@NHibiki](https://t.me/NHibiki)开发，后期和维护由[@NHibiki](https://t.me/NHibiki)和[@yxkumad](https://t.me/yxkumad)负责。
