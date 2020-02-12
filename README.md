@@ -6,14 +6,16 @@
 
 # Telegram Bot
 [@lkj_haha_bot](https://t.me/lkj_haha_bot)
+<p>
 欢迎加入李康健交流群：[链接](https://t.me/lkjcloud)
+  </p>
 
 # 更新日志
 初版 2020-02-10 53条粗鄙之语
-<br>
+<p>
 第二版 2020-02-12
 新增了163条粗鄙之语
-</br>
+</p>
 
 # 开发人员
 此Bot由[@NHibiki](https://t.me/NHibiki)开发，后期和维护由[@NHibiki](https://t.me/NHibiki)和[@yxkumad](https://t.me/yxkumad)负责。
